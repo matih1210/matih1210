@@ -22,7 +22,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
----
 
 <!-- ### 📊 Stats (opcional si activás GitHub Metrics) -->
 
