@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 Stats (opcional si activás GitHub Metrics)
+<!-- ### 📊 Stats (opcional si activás GitHub Metrics) -->
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matih1210&show_icons=true&theme=radical)
