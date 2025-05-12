@@ -1,12 +1,13 @@
 # 👋 ¡Hola! Soy Matías Hansen
 
-### 🎓 Estudiante apasionado por el análisis de datos y el desarrollo fullstack
+### 🎓 Estudiante de Ingeniería en Sistemas en la UTN Mendoza – 4.º año
 
 ---
 
-- 👀 Me interesa todo lo relacionado con **análisis de datos**, **bases de datos** y cómo transformar información en decisiones inteligentes.
-- 🌱 Actualmente estoy aprendiendo **desarrollo fullstack** (React, Node.js, etc.) y **Data Analytics** (Python, SQL, Power BI).
-- 💡 Siempre con ganas de mejorar y participar en proyectos reales que me desafíen y enseñen.
+- 👨‍💻 Estoy estudiando **Ingeniería en Sistemas de Información** en la **Universidad Tecnológica Nacional (UTN), Facultad Regional Mendoza**. Actualmente estoy cursando el **4.º año**.
+- 👀 Me apasiona todo lo relacionado con **análisis de datos**, **bases de datos** y la tecnología en general.
+- 🌱 Estoy aprendiendo y mejorando mis habilidades en **desarrollo fullstack** (JavaScript, React, Node.js, etc.) y **Data Analytics** (Python, SQL, Power BI).
+- 🌍 Tengo un **nivel avanzado de inglés**, lo que me permite trabajar y comunicarme cómodamente en entornos bilingües.
 - 📫 Podés contactarme a través de: **matihansen12@gmail.com**
 
 ---
@@ -22,14 +23,16 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
-
-<!-- ### 📊 Stats (opcional si activás GitHub Metrics) -->
-
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matih1210&show_icons=true&theme=radical)
--->
-
 ---
 
-> Gracias por pasar por mi perfil 🙌 ¡Estoy abierto a colaborar en proyectos interesantes!
+<!-- 
+### 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matih1210&show_icons=true&theme=radical)
+
+---
+-->
+
+> Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaborar en proyectos interesantes!
+
 
