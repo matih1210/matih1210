@@ -1,38 +1,132 @@
-# 👋 ¡Hola! Soy Matías Hansen
+# 👋 Hey! I'm Matías Hansen
 
-### 🎓 Estudiante de Ingeniería en Sistemas en la UTN Mendoza – 4.º año
+**Software Developer & Information Systems Engineering Student**  
+from **Mendoza, Argentina 🇦🇷**.
 
----
-
-- 👨‍💻 Estoy estudiando **Ingeniería en Sistemas de Información** en la **Universidad Tecnológica Nacional (UTN), Facultad Regional Mendoza**. Actualmente estoy cursando el **4.º año**.
-- 👀 Me apasiona todo lo relacionado con **análisis de datos**, **bases de datos** y la tecnología en general.
-- 🌱 Estoy aprendiendo y mejorando mis habilidades en **desarrollo fullstack** (JavaScript, React, Node.js, etc.) y **Data Analytics** (Python, SQL, Power BI).
-- 🌍 Tengo un **nivel avanzado de inglés**, lo que me permite trabajar y comunicarme cómodamente en entornos bilingües.
-- 📫 Podés contactarme a través de: **matihansen12@gmail.com**
+Apasionado por el **backend**, los **microservicios**, los **datos**, y por construir sistemas bien diseñados que realmente funcionen.
 
 ---
 
-### 🚀 Tecnologías que estoy aprendiendo o usando
+## 🚀 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+- 🎓 Final-year **Information Systems Engineering** student (UTN – FRM)  
+- 💻 Developer con enfoque en **Backend · Microservices · Distributed Systems**  
+- 📊 Interés fuerte en **Data Science & Analytics**  
+- 📦 Experiencia desarrollando APIs, pipelines CI/CD, microservicios en Go y Node.js  
+- 🌱 Actualmente aprendiendo: **Go · Redis · Docker · Oracle · DevOps**    
 
 ---
 
-<!-- 
-### 📊 Estadísticas de GitHub
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matih1210&show_icons=true&theme=radical)
+### **Languages & Core Tech**
+<p>
+  <img src="https://skillicons.dev/icons?i=go,js,ts,python,java,c,html,css" />
+</p>
+
+### **Backend, Architecture & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,prisma,redis,mongodb,postgres,mysql,rabbitmq,docker" />
+</p>
+
+### **Data Science & Analytics**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,md" />
+</p>
+
+**Libraries:** NumPy, Pandas, Scikit-Learn  
+**BI Tools:** Power BI, Tableau, Kibana  
+
+### **DevOps & Productivity**
+<p>
+  <img src="https://skillicons.dev/icons?i=github,githubactions,postman,vercel" />
+</p>
 
 ---
--->
 
-> Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaborar en proyectos interesantes!
+## 🔥 Featured Projects
+
+### 🛒 **FullStock – Microservices E-Commerce Platform**
+**Go + MongoDB + RabbitMQ + Docker + Clean Architecture**
+
+Sistema distribuido con múltiples microservicios:  
+**Auth · Cart · Catalog · Image · Stock · Orders · Notifications**
+
+- Eventos asíncronos con **RabbitMQ**  
+- **JWT Introspection** & sesiones centralizadas  
+- Repositorios desacoplados  
+- Docker multi-service + documentación completa  
+
+🔗 *En desarrollo constante*
+
+---
+
+### 🧬 **Mutant DNA Detector – API REST**
+**Java + Spring Boot + Envers + JPA**
+
+- Detecta ADN mutante con matrices NxN  
+- Validación personalizada con anotaciones  
+- Auditoría de entidades con **Envers**  
+- Endpoint `/stats`  
+- Testing con **JMeter**
+
+---
 
 
+### 🧪 **Cypress Automated Testing – Thinking Tester Contact List**
+- Tests E2E completos  
+- CRUD, login, validaciones, rutas protegidas  
+- **JavaScript + Cypress + Node.js**
+
+---
+
+### 🔢 **Simulación · Métodos Numéricos · Control**
+**Octave + Arduino**
+
+- EDOs, Runge-Kutta, integrales, derivadas  
+- Generadores pseudoaleatorios + validación estadística  
+- Proyecto integrador con sensores + Arduino + LCD
+
+---
+
+## 📫 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/matias-hansen/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:matihansen12@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/matih1210">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=matih1210&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=matih1210&theme=tokyonight" />
+</p>
+
+<p>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matih1210&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Portfolio Website
+
+Si querés ver mi portfolio completo con proyectos detallados, skills y certificaciones:
+
+👉 **https://matih1210.github.io/portfolio/**
+
+---
+
+### Thanks for stopping by! 😊  
+Siempre abierto a colaborar y aprender cosas nuevas 🚀
