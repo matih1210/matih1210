@@ -122,13 +122,25 @@ Live: **https://matih1210.github.io/portfolio/**
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=matih1210&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=matih1210&theme=tokyonight" />
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=matih1210&show_icons=true&theme=tokyonight"
+  />
 </p>
 
-<p>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matih1210&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img
+    height="160"
+    src="https://streak-stats.demolab.com/?user=matih1210&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="140"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matih1210&layout=compact&theme=tokyonight"
+  />
 </p>
 
 ---
