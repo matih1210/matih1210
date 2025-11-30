@@ -3,17 +3,18 @@
 **Software Developer & Information Systems Engineering Student**  
 from **Mendoza, Argentina 🇦🇷**.
 
-Apasionado por el **backend**, los **microservicios**, los **datos**, y por construir sistemas bien diseñados que realmente funcionen.
+Focused on **Backend Development, Microservices, Distributed Systems, and Data Analytics**.  
+I enjoy building reliable systems, learning new technologies, and connecting software engineering with data-driven insights.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Final-year **Information Systems Engineering** student (UTN – FRM)  
-- 💻 Developer con enfoque en **Backend · Microservices · Distributed Systems**  
-- 📊 Interés fuerte en **Data Science & Analytics**  
-- 📦 Experiencia desarrollando APIs, pipelines CI/CD, microservicios en Go y Node.js  
-- 🌱 Actualmente aprendiendo: **Go · Redis · Docker · Oracle · DevOps**    
+- 🧠 Strong focus on **Backend, Microservices, and System Architecture**  
+- 📊 Interested in **Data Science & Analytics**  
+- 🌱 Currently learning **Go, Redis, Advanced Docker, Distributed Systems & DevOps**  
+- 🧰 Experienced with real academic + technical projects involving REST APIs, CI/CD, microservices, and analytics  
 
 ---
 
@@ -30,16 +31,15 @@ Apasionado por el **backend**, los **microservicios**, los **datos**, y por cons
 </p>
 
 ### **Data Science & Analytics**
-<p>
-  <img src="https://skillicons.dev/icons?i=py,md" />
-</p>
+- Python (NumPy, Pandas, Scikit-Learn)  
+- Statistical Analysis  
+- A/B Testing  
+- Power BI · Tableau · Kibana  
+- Time Series (learning)
 
-**Libraries:** NumPy, Pandas, Scikit-Learn  
-**BI Tools:** Power BI, Tableau, Kibana  
-
-### **DevOps & Productivity**
+### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=github,githubactions,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=github,githubactions,postman,vercel,docker" />
 </p>
 
 ---
@@ -49,43 +49,56 @@ Apasionado por el **backend**, los **microservicios**, los **datos**, y por cons
 ### 🛒 **FullStock – Microservices E-Commerce Platform**
 **Go + MongoDB + RabbitMQ + Docker + Clean Architecture**
 
-Sistema distribuido con múltiples microservicios:  
-**Auth · Cart · Catalog · Image · Stock · Orders · Notifications**
+Large-scale distributed system with independent microservices:
+- **Auth · Cart · Catalog · Image · Stock · Order · Notifications**
+- Asynchronous communication with **RabbitMQ**
+- Distributed authentication with **JWT Introspection**
+- Clean architecture + decoupled repositories
+- Each service containerized with Docker
 
-- Eventos asíncronos con **RabbitMQ**  
-- **JWT Introspection** & sesiones centralizadas  
-- Repositorios desacoplados  
-- Docker multi-service + documentación completa  
-
-🔗 *En desarrollo constante*
-
----
-
-### 🧬 **Mutant DNA Detector – API REST**
-**Java + Spring Boot + Envers + JPA**
-
-- Detecta ADN mutante con matrices NxN  
-- Validación personalizada con anotaciones  
-- Auditoría de entidades con **Envers**  
-- Endpoint `/stats`  
-- Testing con **JMeter**
+🔗 *On continuous development*
 
 ---
 
+### 🧮 **Simulation Project — Random Number Generator & Statistical Validation**
+**Python + NumPy + SciPy + Flask**
 
-### 🧪 **Cypress Automated Testing – Thinking Tester Contact List**
-- Tests E2E completos  
-- CRUD, login, validaciones, rutas protegidas  
-- **JavaScript + Cypress + Node.js**
+Academic final project focused on:
+- Creation of pseudo-random number generators  
+- Statistical validation: **Chi-Square, Kolmogorov–Smirnov, Entropy**  
+- Probability distributions using inverse transform & rejection sampling  
+- Web interface built with **Flask** for interactive visualization
+
+🔗 *Full project available in GitHub*
 
 ---
 
-### 🔢 **Simulación · Métodos Numéricos · Control**
-**Octave + Arduino**
+### 🧪 **End-to-End Testing with Cypress — Contact List**
+Full E2E automated test suite for **Thinking Tester Contact List**:
+- Registration  
+- Login / Logout  
+- Contact CRUD  
+- Form validations  
+- Access restrictions when no active session exists  
 
-- EDOs, Runge-Kutta, integrales, derivadas  
-- Generadores pseudoaleatorios + validación estadística  
-- Proyecto integrador con sensores + Arduino + LCD
+Tech: **Cypress + JavaScript + Node.js**
+
+---
+
+### ⚙️ **CI Pipeline — Node.js + GitHub Actions**
+Minimal Node.js project built to demonstrate a complete CI workflow:
+- Linting with **ESLint**
+- Formatting check with **Prettier**
+- Unit tests with **Jest**
+- Integration test using **Supertest** (`/health`)
+- Branch protection requiring workflow success
+
+---
+
+### 🌐 **Personal Portfolio Website**
+Fully responsive portfolio 
+
+Live: **https://matih1210.github.io/portfolio/**
 
 ---
 
@@ -120,13 +133,5 @@ Sistema distribuido con múltiples microservicios:
 
 ---
 
-## 🌐 Portfolio Website
-
-Si querés ver mi portfolio completo con proyectos detallados, skills y certificaciones:
-
-👉 **https://matih1210.github.io/portfolio/**
-
----
-
-### Thanks for stopping by! 😊  
-Siempre abierto a colaborar y aprender cosas nuevas 🚀
+### Thanks for visiting! 😊  
+Feel free to explore my repositories or reach out — always open to collaborating 🚀
